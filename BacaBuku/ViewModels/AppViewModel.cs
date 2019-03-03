@@ -24,7 +24,6 @@ namespace BacaBuku.ViewModels
             }
         }
 
-
         private SearchViewModel _searchVM;
         public SearchViewModel SearchVM
         {
